@@ -1,4 +1,4 @@
-W3C HTML validator data retriever
+W3C HTML Validator Result Retriever
 ===
 Retrieves W3C HTML validator results from W3C API in array format.
 
@@ -32,7 +32,7 @@ $testSite->htmlErrorsAndWarnings;
 $testSite->url;
 ```
 
-#### Getting everything that is received with JSON
+#### Getting everything that is received from JSON
 ```
 $testSite->htmlAllData;
 ```
