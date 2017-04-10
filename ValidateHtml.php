@@ -1,7 +1,7 @@
 <?php
 
 /**
- * W3C HTML validator data retriever
+ * W3C HTML Validator Result Retriever
  * 2017
  * Created by Renee Säks
  * http://www.escaper.ee/renee/portfolio/
