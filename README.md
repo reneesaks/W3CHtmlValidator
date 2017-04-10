@@ -12,22 +12,22 @@ and the second one is optional boolean true or false (true serializes the data, 
 $testSite = new ValidateHtml('http://www.example.com/');
 ```
 
-#### Gettting the errors
+#### Getting the errors
 ```
 $testSite->htmlErrors;
 ```
 
-#### Gettting the warnings
+#### Getting the warnings
 ```
 $testSite->htmlWarnings;
 ```
 
-#### Gettting the errors and warnings both
+#### Getting the errors and warnings
 ```
 $testSite->htmlErrorsAndWarnings;
 ```
 
-#### Gettting the url
+#### Getting the url
 ```
 $testSite->url;
 ```
